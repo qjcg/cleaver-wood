@@ -1,4 +1,9 @@
-# 3rd party resources
+# Cleaver Wood
+
+A [Cleaver](https://github.com/jdan/cleaver) slideshow theme.
+
+
+## 3rd party resources
 - [kbd.css](https://github.com/JSlote/kbd.css)
 - background image: [Webtreats Dark Wood Patterns 8] by [webtreats] is licensed under [CC BY 2.0].
 
